@@ -13,7 +13,7 @@ A small script that gets rid of the Mobile Safari's full page bounce when you dr
   ```html
   <script src="framer/framer.js"></script>
 
-  <!-- Link to the template script: -->
+  <!-- Link to the script: -->
   <script src="framer-prevent-bounce.js"></script>
 
   <script src="app.js"></script>
