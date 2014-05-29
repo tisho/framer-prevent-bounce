@@ -2,7 +2,7 @@
 
 A small script that gets rid of the Mobile Safari's full page bounce when you drag beyond the boundaries of the page.
 
-<img src="http://tisho.co/framer-prevent-bounce/images/framer-prevent-bounce-demo.png" width="278">
+<img src="http://tisho.co/framer-prevent-bounce/images/framer-prevent-bounce-demo.gif" width="278">
 
 ## Usage
 
