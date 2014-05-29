@@ -2,9 +2,11 @@
 
 A small script that gets rid of the Mobile Safari's full page bounce when you drag beyond the boundaries of the page.
 
+<img src="http://tisho.co/framer-prevent-bounce/images/framer-prevent-bounce-demo.png" width="278">
+
 ## Usage
 
-1. Download `framer-prevent-bounce.js` to your prototype's directory.
+1. Download [framer-prevent-bounce.js](http://tisho.co/framer-prevent-bounce/framer-prevent-bounce.js) to your prototype's directory.
 
 2. Open your `index.html` in a text editor and link to the file using a `<script>` tag. The file should be included *after* the `framer.js` script and *before* your `app.js` script:
 
